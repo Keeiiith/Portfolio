@@ -42,7 +42,7 @@ export default function Hero() {
               rel="noreferrer"
               className="display inline-block border border-white/25 px-6 py-3.5 text-sm tracking-wider text-white transition-all hover:-translate-y-0.5 hover:border-accent hover:text-accent"
             >
-              View CV
+              View Resume
             </a>
           </div>
 

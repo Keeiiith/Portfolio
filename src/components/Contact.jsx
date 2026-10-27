@@ -39,7 +39,7 @@ export default function Contact() {
             rel="noreferrer"
             className="display inline-flex items-center gap-2 bg-accent px-6 py-3.5 text-sm tracking-wider text-zinc-950 transition-all hover:-translate-y-0.5 hover:brightness-110"
           >
-            View CV
+            View Resume
           </a>
           <a
             href={profile.resume}
